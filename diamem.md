@@ -13,16 +13,6 @@ title: DiaMem 记忆力评估小程序
 
 认知障碍疾病已成为我国的重要公共卫生问题。2023年我国阿尔茨海默病及相关痴呆患病人数已达2029.9万[1]，60岁及以上人群轻度认知障碍患病率达15.5%[2]。认知训练等干预措施已被证明可以延缓认知功能下降[3]，但实践中面临一个关键问题：如何判断干预是否有效？目前常用的认知评估工具（如MoCA）存在明显的学习效应，不适合短期内重复测量[7]，且其最小可检测变化为4分[7]，难以捕捉细微的认知变化。与此同时，认知障碍疾病的临床研究也因缺乏适合重复施测的动态评定工具而更为耗时费力——AD药物III期试验往往需要长达18个月、超过1700例样本[8, 9]，而糖尿病或高血压试验仅需3-6个月、样本量也更小[10, 11]。重复测量取均值是降低偶然误差、缩减样本量的常用策略[11]，但现有认知评估工具的设计初衷是诊断/筛查而非动态评定，无法满足这一需求。**DiaMem** 应运而生，旨在填补“可重复、生态效度高、易用”的记忆监测工具空白。
 
-**参考文献**
-[1] Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease Study 2023 (GBD 2023) Results. Seattle, WA: IHME; 2025.
-[2] 中华医学会神经病学分会痴呆与认知障碍学组. 阿尔茨海默病源性轻度认知障碍诊疗中国专家共识2024. 中华神经科杂志, 2024, 57(7): 715-737.
-[3] Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet, 2024, 404(10452): 572-628.
-[7] Feeney J, Savva GM, O'Regan C, et al. Measurement Error, Reliability, and Minimum Detectable Change in the Mini-Mental State Examination, Montreal Cognitive Assessment, and Color Trails Test among Community Living Middle-Aged and Older Adults. J Alzheimers Dis, 2016, 53(3): 1107-1114.
-[8] van Dyck CH, Swanson CJ, Aisen P, et al. Lecanemab in Early Alzheimer's Disease. N Engl J Med, 2023, 388(1): 9-21.
-[9] Sims JR, Zimmer JA, Evans CD, et al. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA, 2023, 330(6): 512-527.
-[10] Xu M, Sun K, Xu W, et al. Fotagliptin monotherapy with alogliptin as an active comparator in patients with uncontrolled type 2 diabetes mellitus: a randomized, multicenter, double-blind, placebo-controlled, phase 3 trial. BMC Med, 2023, 21(1): 388.
-[11] Flack JM, Azizi M, Brown JM, et al. Efficacy and Safety of Baxdrostat in Uncontrolled and Resistant Hypertension. N Engl J Med, 2025, doi: 10.1056/NEJMc2516026.
-
 ---
 
 ## 🎯 核心设计理念
@@ -78,7 +68,6 @@ title: DiaMem 记忆力评估小程序
 
 > ⚠️ 如上方图片未显示，说明流程图尚未上传。请将 `使用流程示意图-横版.tif` 转换为 `.jpg` 格式后重新上传至 `assets/DiaMem_figures/` 文件夹，并将文件名改为 `使用流程示意图.jpg`。
 
-
 ---
 
 ## 📬 联系与反馈
@@ -86,3 +75,17 @@ title: DiaMem 记忆力评估小程序
 - **研究者**：马燕军（myj@xwhosp.org）
 
 欢迎同行交流与合作！
+
+---
+
+<small>
+**参考文献**<br>
+[1] Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease Study 2023 (GBD 2023) Results. Seattle, WA: IHME; 2025.<br>
+[2] 中华医学会神经病学分会痴呆与认知障碍学组. 阿尔茨海默病源性轻度认知障碍诊疗中国专家共识2024. 中华神经科杂志, 2024, 57(7): 715-737.<br>
+[3] Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet, 2024, 404(10452): 572-628.<br>
+[7] Feeney J, Savva GM, O'Regan C, et al. Measurement Error, Reliability, and Minimum Detectable Change in the Mini-Mental State Examination, Montreal Cognitive Assessment, and Color Trails Test among Community Living Middle-Aged and Older Adults. J Alzheimers Dis, 2016, 53(3): 1107-1114.<br>
+[8] van Dyck CH, Swanson CJ, Aisen P, et al. Lecanemab in Early Alzheimer's Disease. N Engl J Med, 2023, 388(1): 9-21.<br>
+[9] Sims JR, Zimmer JA, Evans CD, et al. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA, 2023, 330(6): 512-527.<br>
+[10] Xu M, Sun K, Xu W, et al. Fotagliptin monotherapy with alogliptin as an active comparator in patients with uncontrolled type 2 diabetes mellitus: a randomized, multicenter, double-blind, placebo-controlled, phase 3 trial. BMC Med, 2023, 21(1): 388.<br>
+[11] Flack JM, Azizi M, Brown JM, et al. Efficacy and Safety of Baxdrostat in Uncontrolled and Resistant Hypertension. N Engl J Med, 2025, doi: 10.1056/NEJMc2516026.
+</small>
