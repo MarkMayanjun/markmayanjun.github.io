@@ -58,28 +58,40 @@ title: DiaMem 记忆力评估小程序
 
 > 下面是小程序二维码，微信扫码即可直接进入：
 
-![DiaMem 二维码](assets/figures/DiaMem二维码.png)
+![DiaMem 二维码](assets/DiaMem_figures/DiaMem二维码.png)
 
 ---
 
-## 🖼️ 测试流程示意图
+## 🖼️ 界面截图
 
-下图展示了 DiaMem 的完整测试流程（场景顺序与随机素材替换机制）：
-
-![DiaMem 流程图](assets/figures/使用流程示意图.jpg)
-
----
-
-## 📷 界面截图（示例）
-
-| 家庭介绍 | 公园场景 | 购物清单 |
-|:--------:|:--------:|:--------:|
-| ![家庭](assets/figures/1.d57cff7af57040be9015d6687c186a2b.jpg) | ![公园](assets/figures/2.05679e0e38bfcaa7b32d239465e00573.jpg) | ![购物](assets/figures/3.9baeb1be571e2305666b690f5b33a9b9.jpg) |
+<table>
+  <tr>
+    <td><img src="assets/DiaMem_figures/1.首页.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/2.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/3.9baeb1be571e2305666b690f5b33a9b9.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/4.0aeb5daea8dcb869ba837ad9032cf1d7.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/5.18f8aae5741e939f63d19c6c5f0b06d8j.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/DiaMem_figures/6.14e0bc53174538fb453318dde298e294.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/7.3774af0e188ba381a1cb846cb2794a64.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/8.8f25122cfbfa623303a9fe09322481d2j.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/9.036ed42d775062476eabb2f2feabb014.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/10.ae6fdb6a4d21b39db427cc41f6620b0a.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/DiaMem_figures/11.0a243f4b3f1813331c3a66a4b8935d21.jpg" width="100%"></td>
+    <td><img src="assets/DiaMem_figures/12.e89d4e2e1e55fabe5764bc92c3d80ae6.jpg" width="100%"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 ## 📬 联系与反馈
 
-- **研究者**：马燕军（yanjun.ma@xwhosp.org）
+- **研究者**：马燕军（markmayanjun@163.com）
 
 欢迎同行交流与合作！
