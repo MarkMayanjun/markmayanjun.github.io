@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DiaMem 记忆力评估小程序
+permalink: /diamem/
 ---
 
 # 🧠 DiaMem — 基于随机刺激替换的移动记忆监测工具
@@ -88,9 +89,7 @@ title: DiaMem 记忆力评估小程序
 [11] Flack J M, Azizi M, Brown J M, et al. Efficacy and safety of baxdrostat in uncontrolled and resistant hypertension[J]. New England Journal of Medicine, 2025. DOI: 10.1056/NEJMc2516026.
 </small>
 
----
-
 <small>
 <b>建议引用格式</b><br>
-马燕军. DiaMem——基于随机刺激替换的移动记忆监测工具[EB/OL]. (2026-07-27). https://markmayanjun.github.io/diamem.
+马燕军. DiaMem——基于随机刺激替换的移动记忆监测工具[EB/OL]. (2026-07-27). https://markmayanjun.github.io/diamem/.
 </small>
