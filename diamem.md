@@ -64,9 +64,8 @@ title: DiaMem 记忆力评估小程序
 
 下图展示了 DiaMem 的完整测试流程（场景顺序与随机素材替换机制）：
 
-<img src="assets/DiaMem_figures/使用流程示意图-横版.tif" width="600">
+<img src="assets/DiaMem_figures/流程示意图-横版.jpg" width="600">
 
-> ⚠️ 如上方图片未显示，说明流程图尚未上传。请将 `使用流程示意图-横版.tif` 转换为 `.jpg` 格式后重新上传至 `assets/DiaMem_figures/` 文件夹，并将文件名改为 `使用流程示意图.jpg`。
 
 ---
 
