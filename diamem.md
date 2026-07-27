@@ -74,37 +74,10 @@ title: DiaMem 记忆力评估小程序
 
 下图展示了 DiaMem 的完整测试流程（场景顺序与随机素材替换机制）：
 
-<img src="assets/DiaMem_figures/使用流程示意图.jpg" width="600">
+<img src="assets/DiaMem_figures/使用流程示意图-横版.tif" width="600">
 
 > ⚠️ 如上方图片未显示，说明流程图尚未上传。请将 `使用流程示意图-横版.tif` 转换为 `.jpg` 格式后重新上传至 `assets/DiaMem_figures/` 文件夹，并将文件名改为 `使用流程示意图.jpg`。
 
----
-
-## 📷 界面截图（示例）
-
-<table>
-  <tr>
-    <td><img src="assets/DiaMem_figures/1.首页.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/2.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/3.9baeb1be571e2305666b690f5b33a9b9.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/4.0aeb5daea8dcb869ba837ad9032cf1d7.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/5.18f8aae5741e939f63d19c6c5f0b06d8j.jpg" width="95%"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/DiaMem_figures/6.14e0bc53174538fb453318dde298e294.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/7.3774af0e188ba381a1cb846cb2794a64.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/8.8f25122cfbfa623303a9fe09322481d2j.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/9.036ed42d775062476eabb2f2feabb014.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/10.ae6fdb6a4d21b39db427cc41f6620b0a.jpg" width="95%"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/DiaMem_figures/11.0a243f4b3f1813331c3a66a4b8935d21.jpg" width="95%"></td>
-    <td><img src="assets/DiaMem_figures/12.e89d4e2e1e55fabe5764bc92c3d80ae6.jpg" width="95%"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 ---
 
