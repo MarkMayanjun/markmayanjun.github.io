@@ -58,7 +58,7 @@ title: DiaMem 记忆力评估小程序
 
 > 下面是小程序二维码，微信扫码即可直接进入：
 
-![DiaMem 二维码](assets/images/qrcode.png)
+![DiaMem 二维码](assets/figures/DiaMem二维码.png)
 
 ---
 
@@ -66,7 +66,7 @@ title: DiaMem 记忆力评估小程序
 
 下图展示了 DiaMem 的完整测试流程（场景顺序与随机素材替换机制）：
 
-![DiaMem 流程图](assets/images/flowchart.png)
+![DiaMem 流程图](assets/figures/使用流程示意图.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ title: DiaMem 记忆力评估小程序
 
 | 家庭介绍 | 公园场景 | 购物清单 |
 |:--------:|:--------:|:--------:|
-| ![家庭](assets/images/screenshot1.png) | ![公园](assets/images/screenshot2.png) | ![购物](assets/images/screenshot3.png) |
+| ![家庭](assets/figures/1.d57cff7af57040be9015d6687c186a2b.jpg) | ![公园](assets/figures/2.05679e0e38bfcaa7b32d239465e00573.jpg) | ![购物](assets/figures/3.9baeb1be571e2305666b690f5b33a9b9.jpg) |
 
 ---
 
