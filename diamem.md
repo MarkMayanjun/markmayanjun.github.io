@@ -78,7 +78,7 @@ title: DiaMem 记忆力评估小程序
 ---
 
 <small>
-**参考文献**<br>
+**参考文献**
 [1] Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease Study 2023 (GBD 2023) Results. Seattle, WA: IHME; 2025.<br>
 [2] 中华医学会神经病学分会痴呆与认知障碍学组. 阿尔茨海默病源性轻度认知障碍诊疗中国专家共识2024. 中华神经科杂志, 2024, 57(7): 715-737.<br>
 [3] Livingston G, Huntley J, Liu KY, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet, 2024, 404(10452): 572-628.<br>
