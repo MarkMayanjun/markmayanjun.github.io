@@ -108,9 +108,9 @@ title: 电子随机信封 — 临床试验随机化分配工具
 ## 🖼️ 使用界面示例
 
 <img width="356" height="680" alt="image" src="https://github.com/user-attachments/assets/f75e9698-2791-427c-8bbf-3472fe74c428" />
-<img width="364" height="905" alt="image" src="https://github.com/user-attachments/assets/d747a5ca-782d-4c59-b964-7464c7db8213" />
-<img width="500" height="954" alt="image" src="https://github.com/user-attachments/assets/79c109ee-e7ec-4df8-8e33-323c458d51d1" />
-<img width="394" height="724" alt="image" src="https://github.com/user-attachments/assets/1a3f6a1c-d19e-4f23-bf0b-126a9d1ee18b" />
+<img width="356" height="680" alt="image" src="https://github.com/user-attachments/assets/d747a5ca-782d-4c59-b964-7464c7db8213" />
+<img width="356" height="680" alt="image" src="https://github.com/user-attachments/assets/79c109ee-e7ec-4df8-8e33-323c458d51d1" />
+<img width="356" height="680" alt="image" src="https://github.com/user-attachments/assets/1a3f6a1c-d19e-4f23-bf0b-126a9d1ee18b" />
 
 
 ---
