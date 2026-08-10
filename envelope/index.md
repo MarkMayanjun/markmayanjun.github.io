@@ -90,15 +90,13 @@ title: 电子随机信封 — 临床试验随机化分配工具
 
 本工具已正式上线，研究者可联系本人免费开通使用。
 
-> 微信搜索 **“随机信封”** 即可找到小程序。
+> 微信搜索 **“随机化信封”** 即可找到小程序。
 
 > 如需开通项目账号，请联系研究者获取管理员分配权限。
 
 ---
 
 ## 📷 小程序二维码
-
-<img src="/assets/envelope_figures/qrcode.png" width="200" alt="随机信封小程序二维码">
 
 > <img width="258" height="258" alt="二维码" src="https://github.com/user-attachments/assets/49259eaf-df56-4f59-a168-f8d675d52928" />
 
